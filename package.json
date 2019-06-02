@@ -1,0 +1,23 @@
+{
+  "name": "chat_app",
+  "version": "1.0.0",
+  "description": "This is CN-course project about : creating a chat app using node.js and socket.io",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MHHLivE/Chat_app.git"
+  },
+  "author": "MHHLivE (Mandi)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MHHLivE/Chat_app/issues"
+  },
+  "homepage": "https://github.com/MHHLivE/Chat_app#readme",
+  "dependencies": {
+    "socket.io": "*",
+    "express": "*"
+  }
+}
